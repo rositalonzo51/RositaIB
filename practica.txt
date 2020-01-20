@@ -1,7 +1,44 @@
-|NOMBRE| QUE ES ?|QUIEN?|CUANDO ? | PARA QUE ?|
-|:---: | :---:   | :--: | :---:   |  :---:    |
-|HADOOP
-|
-|
-|
-|
+|NOMBRE|       QUE ES ?           |  QUIEN?                  |CUANDO ? | PARA QUE ?|
+|:---: |        :---:             |  :--:                    | :---:   |  :---:    |
+|HADOOP|  Hadoop es una           |                          |2006-2008| -Almacenaje y 
+|      | estructura de software de|Cutting se unió a Yahoo   |         | archivo de datos de bajo costo
+       |código abierto para       |La estructura y el        |         |-Caja de arena para 
+       |almacenar datos y ejecutar|ecosistema de tecnologías |         |descubrimiento y análisis
+       |aplicaciones en clústeres |de Hadoop son gestionadosy|         |-dake lake
+       |de hardware comercial     |mantenidos por la Apache  |         |--Complemente su almacén de datos
+       |                          | Software Foundation (ASF |         |
+       |                          |                          |         | Podemos escribir aplicacione  
+                                  |                          |         | para procesar grandes cantidades . 
+ FLUME   Es un producto que forma |         APACHE           |         |   desde manera confiable
+         parte del ecosistema     |                          |         |  datos, paralelamente, 
+         Hadoop, y conforma una   |                          |         |  En grandes grupos de componentes de hardware                              solucion de              |                        
+         Java distribuida         |                          |         |
+         y de alta disponibilidad |                          |         |
+          para recolectar, agregar|                          |         |                 
+        y mover grandes cantidades|                          |         |
+        de datos                  |                          |         |
+        desde diferentes fuentes  |                          |         |
+                                  |                          |         |
+                                  |                          |         |
+MAP   |                           |                          |         | 
+REDUCE|Es una técnica de          |                          |         |
+      | procesamiento y un prog   |                          |         |
+      |distribuida basada en java.|                          |         |  Podemos escribir aplicaciones para procesar
+      |El algoritmo MapReduce     |                          |         |  grandes cantidades de datos, 
+      |contiene dos tareas        |                          |         |paralelamente, en grandes grupos 
+      |importantes, a saber Mapa  |                          |         |de componentes de hardware de manera confiable.
+      | y reducir                                          
+      
+     
+BD NO ESTRUC-
+TURADA	--Los datos no estructurados son datos en bruto y no organizados. 
+Generalmente son datos binarios que no tienen estructura interna identificable.
+Es un conglomerado masivo y desorganizado de varios objetos que no tienen valor hasta que se identifican y almacenan de manera organizada.prmite la mejor organización de los datos, con esto pueden estar buscados y categorizados.
+MONDOGO->
+ Es una base de datos de documentos que ofrece una gran escalabilidad 
+ y flexibilidad, y un modelo de consultas e indexación avanzado.Almacena datos en documentos flexibles similares a JSON, por lo que los campos pueden variar entre documentos y la estructura de datos puede cambiarse con el tiempo.
+ DOCKER->Es un proyecto de código abierto para automatizar
+ la implementación de aplicaciones como contenedores portátiles
+ y autosuficientes que se pueden ejecutar en la nube o localmente
+ Crea contenedores ligeros y portables para las aplicaciones software que puedan ejecutarse en cualquier máquina con Docker
+ SPARK->Es un framework de programación para procesamiento de datos distribuidos diseñado para ser rápido y de propósito general. Como su propio nombre indica.Desarrolado por Apache .Éstos sistemas incluyen procesamiento batch, algoritmos iterativos, queries 
